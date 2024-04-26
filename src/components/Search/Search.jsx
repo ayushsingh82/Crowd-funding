@@ -35,6 +35,7 @@ function Search(props) {
   }
   `;
 
+
   const getDomains = async () => {
     console.log(query)
     const { data } = await client.query(query).toPromise();
