@@ -12,7 +12,8 @@ ScrollScan is a tool designed to simplify the tracking of transactions and balan
 - **External Transaction Tracking**: Track external transactions involving Scroll domain addresses.
 - **Comprehensive Portfolio Overview**: ScrollScan provides a comprehensive overview of your Scroll domain portfolio, including detailed information such as time, hash, and more.
 - **Future Development**: The future goal of ScrollScan is to evolve into a complete portfolio tracker for Scroll. This will include additional features such as portfolio performance analysis, asset allocation insights, and customizable reporting.
-- **theGraph Integration**: ScrollScan utilizes theGraph queries to fetch address information from the .scroll domain. This integration enables ScrollScan to retrieve real-time data efficiently, ensuring accurate portfolio tracking.
+- **TheGraph Integration**: ScrollScan utilizes theGraph queries to fetch address information from the .scroll domain. This integration enables ScrollScan to retrieve real-time data efficiently, ensuring accurate portfolio tracking.
+- Link for the Subgraph used - https://thegraph.com/explorer/subgraphs/AYMzWnwmKdU7qXswBtCBKCUUTTCGLBCuurTkbDMsahUc?view=Overview&chain=arbitrum-one
 
 ## How It Works
 
