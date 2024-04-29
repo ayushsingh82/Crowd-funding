@@ -123,4 +123,3 @@ function App() {
 export default App;
 
 {/* <p className="text-2xl text-slate-800 font-medium">No Normal Transactions</p> */}
-
