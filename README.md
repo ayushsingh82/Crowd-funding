@@ -14,8 +14,10 @@ ScrollScan is a tool designed to simplify the tracking of transactions and balan
 - **Future Development**: The future goal of ScrollScan is to evolve into a complete portfolio tracker for Scroll. This will include additional features such as portfolio performance analysis, asset allocation insights, and customizable reporting.
 - **TheGraph Integration**: ScrollScan utilizes theGraph queries to fetch address information from the .scroll domain. This integration enables ScrollScan to retrieve real-time data efficiently, ensuring accurate portfolio tracking.
 - Link for the Subgraph used - https://thegraph.com/explorer/subgraphs/AYMzWnwmKdU7qXswBtCBKCUUTTCGLBCuurTkbDMsahUc?view=Overview&chain=arbitrum-one
+- Path where I used TheGraph protocol src/components/Search/Search.jsx
 - Graph query used screenshot
 ![image](https://github.com/ayushsingh82/ScrollScan/assets/121667116/78ea8c22-a34e-4e7e-898a-2a9d51c8546e)
+
 
 
 ## How It Works
