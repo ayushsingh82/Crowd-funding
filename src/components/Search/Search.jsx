@@ -76,7 +76,7 @@ function Search(props) {
             type='text'
             id='myInput'
             value={inputValue}
-            placeholder='Type- name.eth'
+            placeholder='Type- name.scroll'
             onChange={handleInputChange}
           />
           <div className='flex items-center mr-[5px] text-slate-800'>
@@ -109,28 +109,10 @@ function Search(props) {
 }
 
 export default Search;
-// bg-gradient-to-l from-purple-300 via-purple-300 to-purple-400
-
-
-  // const [selectedOption, setSelectedOption] = useState('All Filters');
-
-  // const handleOptionChange = (e) => {
-  //   setSelectedOption(e.target.value);
-  // };
 
 
 
-    {/* <div className='w-[200px] border border-transparent hover:border-slate-800 mr-[10px] rounded-xl h-[40px]
-    hover:border-solid hover:border-2'>
-    
-    <select value={selectedOption} onChange={handleOptionChange}
-    className='h-[40px] w-[150px] overflow-hidden focus:outline-none bg-transparent font-medium text-lg'>
-        <option value="All">All Filters</option>
-        <option value="Option1">Addresses</option>
-        <option value="Option2">Tokens</option>
-        <option value="Option3">Domain Names</option>   
-      </select>
-    </div> */}
+  
 
 
   
