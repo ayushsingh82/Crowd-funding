@@ -6,6 +6,9 @@ ScrollScan is a tool designed to simplify the tracking of transactions and balan
 
 ## Features
 
+![image](https://github.com/ayushsingh82/ScrollScan/assets/121667116/2da335a2-998c-4fdd-a014-d128aa2e1bf5)
+
+
 - **Address Tracking**: Easily track addresses within the Scroll domain.
 - **Balance Monitoring**: Keep an eye on the balance of addresses.
 - **Internal Transaction Tracking**: Monitor internal transactions within the Scroll domain.
